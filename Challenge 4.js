@@ -9,12 +9,13 @@
 // addUp(600) ➞ 180300
 
 function addUp(num){
-    
+
     addedNum = 0
+
     for (let i = 0; i <= num; i++) {
-        addedNum = addedNum + 1;
-        return addedNum
+        addedNum = addedNum + i;
       }
+      return addedNum
 }
 
 
