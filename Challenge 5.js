@@ -19,7 +19,7 @@ class Person{
 
 }
 
-//quick tests
+//quick test
 
 p1 = new Person("Samuel", 24)
 p2 = new Person("Joel", 36)
